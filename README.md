@@ -28,3 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramyadav08&" alt="ramyadav08" /></p>
 
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/ramyadav08/ramyadav08/blob/output/github-contribution-grid-snake.svg)
+
