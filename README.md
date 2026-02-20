@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **DevOps And Cloud-DevOps**
+- 🌱 I’m  **DevOps And MlOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ramyadav08](https://github.com/Ramyadav08)
 
-- 💬 Ask me about **DevOps And Cloud-DevOps**
+- 💬 Ask me about **DevOps And MlOps**
 
 - 📫 How to reach me **ramrekhayadav81718@gmail.com**
 
