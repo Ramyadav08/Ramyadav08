@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m Working as  **DevOps And MlOps**
+- 🌱 I’m Working as  **DevOps And MLOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ramyadav08](https://github.com/Ramyadav08)
 
